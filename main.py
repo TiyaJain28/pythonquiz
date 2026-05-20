@@ -4,7 +4,7 @@ from score import show_score
 
 score = 0
 
-time_limit = 120
+time_limit = 15
 
 print("===== PYTHON QUIZ =====")
 print(f"You have {time_limit} seconds for each question.")
